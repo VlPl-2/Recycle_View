@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recycle View</string>
+    <string name="birthday_s">Дата рождения: </string>
+    <string name="diagnosis_s">Диагноз: </string>
+    <string name="city_s">Город: </string>
+    <string name="gender_s">Пол: </string>
+</resources>
